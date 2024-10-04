@@ -4,6 +4,6 @@
  - Packages used: react-router-dom and react-icons
  - Used slice and map method to achieve desired elements from an array.
  - Created a website with multiple containers and content tags.
- - Seperate components for website sections.
+ - Separate components for website sections.
  - Converted string format ID to numeric format and filtering luxury villas.
  - Designing custom maps. 
